@@ -23,7 +23,7 @@
     height: 100px;
   }
   .screen {
-    height: 97.7vh;
+    height: 95vh;
   }
 </style>
 
