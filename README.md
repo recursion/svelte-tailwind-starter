@@ -4,7 +4,11 @@
 
 # svelte app
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This [svelte](https://svelte.dev) project starter was wired up to use [tailwindcss](https://tailwindcss.com) using the most niave approach possible. Eventually it may be wired up in a more idiomatic way, but it works the way I need it to for now.
+
+This project has a simple (super simple) draggable script attached to it that allows an element to be draggable across a given element, or the entire window. It's buggy, but works as a demo.
+
+This project was started from the template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
